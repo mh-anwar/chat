@@ -1,6 +1,6 @@
 /*
 
-I am begging you, please leave this page
+Please leave this page
 
 This is just bad code that is not optimized written by me
 
@@ -8,8 +8,6 @@ PLEASE LEAVE!
 
 Still here?
 GET OUTTA HERE
-
-
 
 */
 let textbox = document.getElementById('chatTextbox');
