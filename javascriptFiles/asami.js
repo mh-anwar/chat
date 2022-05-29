@@ -23,7 +23,7 @@ var wordList = fetch('./javascriptFiles/words.json')
 function suggestionProvider(event) {
   /*is the event parameter needed? Make this BETTER 
   (i would remove it, but too lazy to test the website)
-  its 1:39AM rn, 2021-07-22 and I am dead tired of ASAMI, pog help me
+  its 1:39AM rn, 2021-07-22 and I am dead tired of ASAMI, someone help me
   */
   if (textbox.innerText != '') {
     variableResetter();
